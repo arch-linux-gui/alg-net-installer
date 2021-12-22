@@ -104,7 +104,8 @@ networkmanager
 xdg-user-dirs
 
 #Plasma for Live CD
-plasma
+plasma-desktop
+plasma-nm
 konsole
 alg-livecd-desktop
 
@@ -114,7 +115,7 @@ calamares
 alg-net-cala-config
 os-prober
 
-#Chaotic AUR
+#NVIDIA
 nvidia
 nvidia-utils
 nvidia-settings
